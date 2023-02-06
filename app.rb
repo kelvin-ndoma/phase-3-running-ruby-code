@@ -13,11 +13,19 @@
 # end
 # # 1 + 1
 # puts add + add
+print "Hello world"
+p [1, 2, 3]
+puts "Hello World!"
 
-def add num1, num2
-    puts num1
-    puts num2
-    num1 + num2
-end
+print "Pass this test, please."
 
-puts add(1,3) + add(2,2)
+pp [{id:1, hello: "World"}, {id:2, hello: "Ruby"}, {id: 3, hello: "Moon" }, {id: 4, hello: "learner"}]
+
+#1+1
+#def add num1, num2
+   # puts num1
+  #  puts num2
+ #   num1 + num2
+#end
+
+#puts add(1,3) + add(2,2)
